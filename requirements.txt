@@ -1,0 +1,5 @@
+numpy>=1.24
+PySide6>=6.6
+pyqtgraph>=0.13.4
+RigolWFM>=1.6.0
+pyinstaller>=6.0
